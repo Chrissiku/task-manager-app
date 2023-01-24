@@ -1,5 +1,7 @@
+import AddTask from "./components/AddTask";
+
 const App = () => {
-  return <h1>hello there</h1>;
+  return <AddTask />;
 };
 
 export default App;
